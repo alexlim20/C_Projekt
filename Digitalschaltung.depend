@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1671473046 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1671473046 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1671587068 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\main.cpp
+	<iostream>
+	<iomanip>
+	"testlevel.h"
+	"Point.h"
+	"RGBColor.h"
+	"Switch.h"
+	"WinAdapt.h"
+	"LogicGateAND.h"
+	"LogicGateNAND.h"
+	"LogicGateOR.h"
+	"LogicGateXOR.h"
+	"Wire.h"
+	"LogicGate.h"
+	"LogicGateSwitch.h"
+
+1673528883 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\testlevel.h
+
+1670757687 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\point.h
+	<ostream>
+
+1670155780 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\rgbcolor.h
+
+1671112194 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\switch.h
+	"ColorBox.h"
+	"TextBox.h"
+
+1670155455 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\colorbox.h
+	"Point.h"
+	"RGBColor.h"
+
+1670164379 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\textbox.h
+	<string>
+	"ColorBox.h"
+
+1670164226 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\colorbox.cpp
+	"ColorBox.h"
+	"WinAdapt.h"
+
+1670149424 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\point.cpp
+
+1671584731 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\switch.cpp
+	"Switch.h"
+	<iostream>
+	<stdio.h>
+
+1671576140 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\textbox.cpp
+	"TextBox.h"
+	"ColorBox.h"
+	"WinAdapt.h"
+
+1671475001 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\wire.h
+	"Point.h"
+
+1671478222 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\wire.cpp
+	"Wire.h"
+	"WinAdapt.h"
+
+1671583404 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgate.h
+	"string.h"
+	"Point.h"
+	"TextBox.h"
+	"ColorBox.h"
+	"Wire.h"
+
+1671583224 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgate.cpp
+	"LogicGate.h"
+
+1671584802 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgateand.h
+	"LogicGate.h"
+
+1671587027 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgatenand.h
+	"LogicGate.h"
+
+1671584802 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgateor.h
+	"LogicGate.h"
+
+1671584057 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgatexor.h
+	"LogicGate.h"
+
+1671581748 c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgateswitch.h
+	"LogicGate.h"
+	"Switch.h"
+
+1671582996 source:c:\users\alexl\desktop\pin2\pin2_w2022\08_digitalschaltung\logicgateswitch.cpp
+	"LogicGateSwitch.h"
+
